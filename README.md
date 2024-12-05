@@ -8,6 +8,9 @@ In .env file put your openai api key.
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/e42c9cc0-a598-471c-a03e-fcabedcc4647">
 
 
+Data set contains 2235 rows and 2 columns. For fie tunning not neccessary to have very large data set, firstrly it will cost a lot and secondly better to have small data set but more reliable.
+Data set designed for classification problem. It has text and corresponding category of this text: sport, politics, entertainment, business, tech. This category we will try to predict using gpt model.
+
 Data set:
 
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/f2551e4e-57f0-4360-b341-ed94c561f1f6">
