@@ -9,6 +9,7 @@ In .env file put your openai api key.
 
 
 Data set:
+
 <img width="787" alt="image" src="https://github.com/user-attachments/assets/f2551e4e-57f0-4360-b341-ed94c561f1f6">
 
 We will use "text" column from the data set as input abd "category" as target variable for classification.
