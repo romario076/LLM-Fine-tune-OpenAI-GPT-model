@@ -21,3 +21,15 @@ In the notebook we will compare base GPT-3.5-turbo model with fine tuned GPT-3.5
 For demonstration was selected very small data set for fine tunning to save costs. 
 You can use openai pricing to calculate how much it will cost to train and evaluate model depends on data set size. In notebook formula is provided. 
 If you want to see fine tunning influence more significant on the result, please increse train and test data set size in notebook, but be aware that costs will increase.
+
+<hr>
+
+Using very small data set, I received such results:
+
+<li> Accuracy base model: 80%
+
+<li> Accuracy fine tuned model: 85%
+
+Validation table:
+
+<img width="196" alt="image" src="https://github.com/user-attachments/assets/7441cb62-71fd-4dd3-867a-873a6a39b545">
